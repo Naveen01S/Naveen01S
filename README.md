@@ -1,16 +1,19 @@
 [![MasterHead](https://media.licdn.com/dms/image/D5616AQGIpQttjWI2RA/profile-displaybackgroundimage-shrink_350_1400/0/1672841152527?e=1699488000&v=beta&t=xKcvZV6wUYvr6PBuQdWcvjPLdopgnaGCiGiyrFNFSLU)]
+(https://media.licdn.com/dms/image/D5616AQGIpQttjWI2RA/profile-displaybackgroundimage-shrink_350_1400/0/1672841152527?e=1699488000&v=beta&t=xKcvZV6wUYvr6PBuQdWcvjPLdopgnaGCiGiyrFNFSLU)
 <h1 align="center">Hi 👋, I'm Naveen Sharma</h1>
 <h3 align="center">Crafting Digital Experiences :A Passionate Frontend Developer</h3>
-(img align="right" alt="Coding" width="400" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/programmer-working-on-pc-3917154-3262957.mp4?h=700")
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...") 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveen01s&label=Profile%20views&color=0e75b6&style=flat" alt="naveen01s" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naveen01s" alt="naveen01s" /></a> </p>
+
 <p align="left"> <a href="https://twitter.com/naveen9994299" target="blank"><img src="https://img.shields.io/twitter/follow/naveen9994299?logo=twitter&style=for-the-badge" alt="naveen9994299" /></a> </p>
 
+- 🔭 I’m currently pursuing Bachelor of Computer Science**
+- 👯Think of me as your friendly guide into the realm of ones and zeros. While the world might see it as complicated, I believe that with the right mindset and approach, anyone can understand and enjoy the art of programming. **👯Think of me as your friendly guide into the realm of ones and zeros. While the world might see it as complicated, I believe that with the right mindset and approach, anyone can understand and enjoy the art of programming.**
 - 🌱 I’m currently learning **jQuery ,DSA**
-
 - 📫 How to reach me **naveen9994299@gmail.com**
-
 - ⚡ Fun fact: **𝐂𝐨𝐧𝐬𝐭𝐚𝐧𝐭𝐥𝐲 𝐞𝐯𝐨𝐥𝐯𝐢𝐧𝐠, 𝐣𝐮𝐬𝐭 𝐥𝐢𝐤𝐞 𝐜𝐨𝐝𝐞 🔄**
 
 <h3 align="left">Connect with me:</h3>
