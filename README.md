@@ -1,4 +1,3 @@
-![MasterHead](https://media.licdn.com/dms/image/D5616AQGIpQttjWI2RA/profile-displaybackgroundimage-shrink_350_1400/0/1672841152527?e=1699488000&v=beta&t=xKcvZV6wUYvr6PBuQdWcvjPLdopgnaGCiGiyrFNFSLU)
 <h1 align="center">Hi 👋, I'm Naveen Sharma</h1>
 <h3 align="center">A Passionate Frontend Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0">
