@@ -11,7 +11,7 @@
 
 - 👯Think of me as your friendly guide into the realm of ones and zeros.
 
-- 🌱 I’m currently learning **jQuery ,DSA**
+- 🌱 I’m currently learning **kotlin**
 
 - ⚡ Fun fact: **Constantly evolving,just like code🔄**
 
