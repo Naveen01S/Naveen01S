@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naveen Sharma</h1>
-<h3 align="center">A Passionate Frontend Developer</h3>
+<h3 align="center">A Passionate python Full stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0">
 
 
@@ -7,15 +7,14 @@
 
 <p align="left"> <a href="https://twitter.com/naveen9994299" target="blank"><img src="https://img.shields.io/twitter/follow/naveen9994299?logo=twitter&style=for-the-badge" alt="naveen9994299" /></a> </p>
 
-- 🔭 I’m currently pursuing Bachelor of Computer Science.
 
 - 👯Think of me as your friendly guide into the realm of ones and zeros.
 
-- 🌱 I’m currently learning **kotlin**
+- 🌱 I’m currently learning **Python**
 
 - ⚡ Fun fact: **Constantly evolving,just like code🔄**
 
-- 📫 How to reach me **naveen9994299@gmail.com**
+- 📫 How to reach me **naveensharma.x01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
